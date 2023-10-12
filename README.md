@@ -26,5 +26,5 @@ I'm always open to collaboration and new project ideas. If you have an exciting 
 
 Feel free to explore my projects and get in touch. Looking forward to connecting with fellow data enthusiasts and innovators!
 
-![image](https://github.com/Ethann93/ethann93/assets/133777296/e98a7357-6fcb-4118-be19-2cc54c3f5f42)
+
 
