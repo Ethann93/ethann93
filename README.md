@@ -17,6 +17,7 @@ Here are a few things you can expect from my GitHub:
 My skills include:
 
 - **Python** 🐍
+- **SQL** 🔍
 - **Excel** 📈
 - **R** 📊
 - **HTML** 🌐
