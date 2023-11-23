@@ -1,5 +1,7 @@
 # Ehsan Nabatchian
 
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ehsan-nabatchian/)
+
 Hi 👋,
 
 I'm **Ehsan Nabatchian** (Nickname: Ethan). With a background in **Management** and **Finance**, I hold a **Bachelor's degree** in Management with a specialization in Finance, as well as a **Master's degree** in Wealth Management and Finance. My journey in the world of technology began as a self-taught programmer, and now, I'm on a mission to dive into the exciting realms of **data analytics**, **data science**, and **data engineering**.
