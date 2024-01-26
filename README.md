@@ -4,7 +4,7 @@
 
 Hi 👋,
 
-I'm **Ehsan Nabatchian** (Nickname: Ethan). With a background in **Management** and **Finance**, I hold a **Bachelor's degree** in Management with a specialization in Finance, as well as a **Master's degree** in Wealth Management and Finance. My journey in the world of technology began as a self-taught programmer, and now, I'm on a mission to dive into the exciting realms of **data analytics**, **data science**, and **data engineering**.
+I'm **Ehsan Nabatchian**. With a background in **Management** and **Finance**, I hold a **Bachelor's degree** in Management with a specialization in Finance, as well as a **Master's degree** in Wealth Management and Finance. My journey in the world of technology began as a self-taught programmer, and now, I'm on a mission to dive into the exciting realms of **data analytics**, **data science**, and **data engineering**.
 
 My passion lies in leveraging data to uncover valuable insights and create solutions that drive informed decisions. On this GitHub page, you'll find a collection of my interactive dashboards and other data-related projects that reflect my dedication to this field.
 
